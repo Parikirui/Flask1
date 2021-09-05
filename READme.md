@@ -29,4 +29,4 @@ Email: isaackirui45@gmail.com
 
 ## License
 
- Copyright@Flask1. All rights Reserved. 2021.
+ Copyright@2021. All rights Reserved. 2021.
