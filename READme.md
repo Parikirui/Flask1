@@ -1,5 +1,7 @@
 ## Project Name
 Password Locker
+## Project Description
+The password locker is an application that helps to keep passwords of user safe. These passwords are from different platforms such emails, social media sites such as Facebook among others. Thus, a user will not have to worry about the various passwords he or she might have to master in his or her fingertips.
 ## Contributors
 Isaac Kirui Parikacha
 ## How to use the system
