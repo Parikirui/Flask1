@@ -25,7 +25,7 @@ WELCOME TO PASSWORD LOCKER APPLICATION
     print(" ")
     print(" ")
     while True:
-        print("-" * 156)
+        print("-" * 200)
         print("""The following short codes are used in this project!!
 1. ca - Creation of an account
 2. xx - Exiting the system
@@ -39,7 +39,7 @@ WELCOME TO PASSWORD LOCKER APPLICATION
         short_code = input() .lower()
         if short_code =='ca':
             print(" ")
-            print("-" * 156)
+            print("-" * 200)
             print("      CREATE A NEW ACCOUNT!")
             print(" ")
             print(" ")
@@ -79,7 +79,7 @@ WELCOME TO PASSWORD LOCKER APPLICATION
 
             else:
                     print('\n')
-                    print("-" * 156)
+                    print("-" * 200)
                     print(" ")
                     print("                         PLEASE CREATE AN ACCOUNT ")
                     print("                    You have not created an account yet :( ")
@@ -104,15 +104,15 @@ WELCOME TO PASSWORD LOCKER APPLICATION
 
 
         elif short_code == "xx":
-            print("-" * 156)
+            print("-" * 200)
             print(" ")
             print("                        THAX FOR DROPING IN!")
             print("                           Bye... Bye...")
             print(" ")
-            print("-" * 156)
+            print("-" * 200)
             break
         else:
-            print("-" * 156)
+            print("-" * 200)
             print(" ")
             print("                              RETRY!!")
             print(" ")
