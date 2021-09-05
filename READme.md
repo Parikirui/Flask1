@@ -26,3 +26,7 @@ Python3.8
 
 Phone Number: +254708541280
 Email: isaackirui45@gmail.com
+
+## License
+
+ Copyright@Flask1. All rights Reserved. 2021.
