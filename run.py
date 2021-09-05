@@ -34,7 +34,7 @@ WELCOME TO PASSWORD LOCKER APP
 
 
         print(" ")
-        print("      TYPE IN A SHORT CODE!")
+        print("      Enter a code of your choice!")
         print(" ")
         short_code = input() .lower()
         if short_code =='ca':
