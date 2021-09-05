@@ -19,7 +19,7 @@ def display_creds():
 def main():
     print(" ")
     print(""" 
-WELCOME TO PASSWORD LOCKER APP                           
+WELCOME TO PASSWORD LOCKER APPLICATION                           
 """)
     print("Once more Welcome!!")
     print(" ")
